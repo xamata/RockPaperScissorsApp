@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\RockPaperScissors\\RockPaperScissors.csproj": {}
+    "C:\\Users\\Maxmi\\Documents\\Programming\\CSharp\\Basics\\RockPaperScissorsApp\\RockPaperScissors.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\RockPaperScissors\\RockPaperScissors.csproj": {
+    "C:\\Users\\Maxmi\\Documents\\Programming\\CSharp\\Basics\\RockPaperScissorsApp\\RockPaperScissors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectUniqueName": "C:\\Users\\Maxmi\\Documents\\Programming\\CSharp\\Basics\\RockPaperScissorsApp\\RockPaperScissors.csproj",
         "projectName": "RockPaperScissors",
-        "projectPath": "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\RockPaperScissors\\RockPaperScissors.csproj",
+        "projectPath": "C:\\Users\\Maxmi\\Documents\\Programming\\CSharp\\Basics\\RockPaperScissorsApp\\RockPaperScissors.csproj",
         "packagesPath": "C:\\Users\\Maxmi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Maxmi\\Documents\\Github\\Visual Studio\\.NET Core\\RockPaperScissors\\obj\\",
+        "outputPath": "C:\\Users\\Maxmi\\Documents\\Programming\\CSharp\\Basics\\RockPaperScissorsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
